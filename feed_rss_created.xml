@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>生信爱好者周刊</title>
+    <description>记录每周值得分享的生信相关内容，周日发布。</description>
+    <link>https://shixiangwang.github.io/weekly/</link>
+    <atom:link href="https://shixiangwang.github.io/weekly/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>Shixiang Wang</managingEditor>
+    <docs>https://github.com/ShixiangWang/weekly</docs>
+    <language>en</language>
+
+    
+    <pubDate>Fri, 28 Apr 2023 13:07:28 -0000</pubDate>
+    <lastBuildDate>Fri, 28 Apr 2023 13:07:28 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.6.0</generator>
+
+    
+    
+    <image>
+      <url>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png</url>
+      <title>生信爱好者周刊</title>
+      <link>https://shixiangwang.github.io/weekly/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>生信爱好者周刊（第 74 期）：新技术的最大风险</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 74 期）：新技术的最大风险&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34; title=&#34;ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 ...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-74/</link>
+      <pubDate>Sun, 23 Apr 2023 14:43:43 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-74/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 73 期）：迄今为止最开放、成果最多的大队列是如何建成的</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 73 期）：迄今为止最开放、成果最多的大队列是如何建成的&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly &#34;ShixiangWang/w...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-73/</link>
+      <pubDate>Sun, 16 Apr 2023 14:32:25 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-73/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 72 期）：把时间当作朋友</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 72 期）：把时间当作朋友&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;[「生...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-72/</link>
+      <pubDate>Sun, 09 Apr 2023 10:24:49 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-72/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 71 期）：博士生真的需要一天看20篇文献吗？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 71 期）：博士生真的需要一天看20篇文献吗？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-71/</link>
+      <pubDate>Sun, 02 Apr 2023 08:21:39 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-71/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 70 期）：多彩多姿的科学家</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 70 期）：多彩多姿的科学家&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34; title=&#34;ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 ...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-70/</link>
+      <pubDate>Sun, 26 Mar 2023 15:41:12 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-70/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 69 期）：如何引导年轻科研工作者？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 69 期）：如何引导年轻科研工作者？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-69/</link>
+      <pubDate>Sun, 19 Mar 2023 11:10:20 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-69/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 68 期）：颠覆性大滑坡，科研还能有实质创新吗？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 68 期）：颠覆性大滑坡，科研还能有实质创新吗？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-68/</link>
+      <pubDate>Sat, 11 Mar 2023 13:48:21 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-68/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 67 期）：你是如何活用ChatGPT给你打工的？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 67 期）：你是如何活用ChatGPT给你打工的？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-67/</link>
+      <pubDate>Sun, 05 Mar 2023 11:22:20 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-67/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 66 期）：退休越晚、寿命越短？有关系么</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 66 期）：退休越晚、寿命越短？有关系么&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34; title=&#34;ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;）...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-66/</link>
+      <pubDate>Tue, 28 Feb 2023 02:50:03 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-66/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 65 期）：125个科学问题：探索与发现</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 65 期）：125个科学问题：探索与发现&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34; title=&#34;ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;）...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-65/</link>
+      <pubDate>Sun, 19 Feb 2023 12:00:17 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-65/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 64 期）：“讨好型人格”：越是乞求，越是被推开</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 64 期）：“讨好型人格”：越是乞求，越是被推开&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。 &lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly &#34;ShixiangWang/week...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-64/</link>
+      <pubDate>Sat, 11 Feb 2023 01:49:57 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-64/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 63 期）：停止寻找的最佳时间</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 63 期）：停止寻找的最佳时间&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;[...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-63/</link>
+      <pubDate>Sun, 05 Feb 2023 08:10:12 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-63/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 62 期）：回望与兔年寄语</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 62 期）：回望与兔年寄语&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34; title=&#34;ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 ...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-62/</link>
+      <pubDate>Sun, 22 Jan 2023 05:56:05 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-62/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 61 期）：基因对寿命的影响</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 61 期）：基因对寿命的影响&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34; title=&#34;ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-61/</link>
+      <pubDate>Sun, 15 Jan 2023 08:55:49 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-61/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 60 期）：孟德尔诞辰 200 周年</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 60 期）：孟德尔诞辰 200 周年&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34; title=&#34;ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-60/</link>
+      <pubDate>Sat, 07 Jan 2023 08:58:43 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-60/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 59 期）：AlphaCode 编程大赛卷趴一半程序员</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 59 期）：AlphaCode 编程大赛卷趴一半程序员&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-59/</link>
+      <pubDate>Sun, 01 Jan 2023 09:01:15 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-59/</guid>
+      
+    </item>
+    
+    <item>
+      <title>阅读说明</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊 &lt;img src=&#34;https://raw.githubusercontent.com/openbiox/wiki/master/static/img/logo-long.png&#34; align=&#34;right&#34; width=&#34;200&#34;/&gt;&lt;/h1&gt;
+&lt;p&gt;[![Open Source Love svg1](h...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/</link>
+      <pubDate>Tue, 27 Dec 2022 07:30:15 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 58 期）：说说你是怎么度过🐑了的日子？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 58 期）：说说你是怎么度过🐑了的日子？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。 &lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34; title=&#34;ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-58/</link>
+      <pubDate>Sun, 25 Dec 2022 05:53:10 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-58/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 57 期）：深度学习并非“简单的统计”，二者距离已越来越远</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 57 期）：深度学习并非“简单的统计”，二者距离已越来越远&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。 &lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly &#34;ShixiangWang...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-57/</link>
+      <pubDate>Sat, 17 Dec 2022 09:42:49 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-57/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 56 期）：2022诺贝尔奖的点击化学或可作为单细胞多组学开发的有力工具</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 56 期）：2022诺贝尔奖的点击化学或可作为单细胞多组学开发的有力工具&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly &#34;Shixia...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-56/</link>
+      <pubDate>Mon, 12 Dec 2022 02:35:26 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-56/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 55 期）：科学创新四十年，我们可能还没搞明白科学和技术的基本概念</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 55 期）：科学创新四十年，我们可能还没搞明白科学和技术的基本概念&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 iss...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-55/</link>
+      <pubDate>Mon, 12 Dec 2022 02:13:07 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-55/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 54 期）：人类和人生的意义</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 54 期）：人类和人生的意义&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;[「...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-54/</link>
+      <pubDate>Sat, 26 Nov 2022 15:30:40 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-54/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 53 期）：为什么现在的中国大学生普遍焦虑内卷？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 53 期）：为什么现在的中国大学生普遍焦虑内卷？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。
+本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-53/</link>
+      <pubDate>Sat, 19 Nov 2022 05:50:50 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-53/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 52 期）：真正的“科技与狠活”：全球首个人工“优选基因”的“完美婴儿”马上2岁啦！</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 52 期）：真正的“科技与狠活”：全球首个人工“优选基因”的“完美婴儿”马上2岁啦！&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly &#34;...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-52/</link>
+      <pubDate>Wed, 16 Nov 2022 11:57:10 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-52/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 51 期）：职业对性格的改变</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 51 期）：职业对性格的改变&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。
+本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。
+[「生信...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-51/</link>
+      <pubDate>Sun, 06 Nov 2022 13:22:15 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-51/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 50 期）：顶级1区期刊宣布：明年起将不再拒稿！</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 50 期）：顶级1区期刊宣布：明年起将不再拒稿！&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly &#34;ShixiangWang/weekl...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-50/</link>
+      <pubDate>Tue, 01 Nov 2022 02:52:22 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-50/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 49 期）：面对知识孤岛，你会怎么处理？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 49 期）：面对知识孤岛，你会怎么处理？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-49/</link>
+      <pubDate>Sun, 23 Oct 2022 07:52:45 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-49/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 48 期）：人生不能只有一个支点</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 48 期）：人生不能只有一个支点&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-48/</link>
+      <pubDate>Sun, 16 Oct 2022 04:00:31 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-48/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 47 期）：RStudio 改名 Posit</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 47 期）：RStudio 改名 Posit&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;祝各位读者国庆假期快乐，我们下期将延期一周准备和发布。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWa...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-47/</link>
+      <pubDate>Sat, 01 Oct 2022 15:31:53 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-47/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 46 期）：你的苹果M系列芯片电脑跑生信顺利么？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 46 期）：你的苹果M系列芯片电脑跑生信顺利么？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly &#34;ShixiangWang/weekl...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-46/</link>
+      <pubDate>Sun, 25 Sep 2022 06:04:49 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-46/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 45 期）：读博还是择业？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 45 期）：读博还是择业？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。
+本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。
+[「生信周...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-45/</link>
+      <pubDate>Sun, 18 Sep 2022 09:36:54 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-45/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 44 期）：为何动物的寿命差异那么大？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 44 期）：为何动物的寿命差异那么大？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-44/</link>
+      <pubDate>Sat, 10 Sep 2022 11:40:03 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-44/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 43 期）：RNA-seq差异分析究竟应该用什么？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 43 期）：RNA-seq差异分析究竟应该用什么？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-43/</link>
+      <pubDate>Sun, 04 Sep 2022 01:20:42 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-43/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 42 期）：极简主义的胜利</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 42 期）：极简主义的胜利&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;[「生...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-42/</link>
+      <pubDate>Sun, 28 Aug 2022 06:45:06 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-42/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 41 期）：人体是一个共生生态系统</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 41 期）：人体是一个共生生态系统&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;从本周起，新增「历史上的本周」一栏。本周刊已运营 1 年，发布 40+ 期，希望给长期读者和搜索到的读者带去一些帮助。如果大家觉得质量还可以，请大家多多分享转发！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: [S...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-41/</link>
+      <pubDate>Sun, 21 Aug 2022 02:26:58 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-41/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 40 期）：bTMB指导肿瘤免疫治疗临床研究</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 40 期）：bTMB指导肿瘤免疫治疗临床研究&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-40/</link>
+      <pubDate>Sun, 14 Aug 2022 03:10:56 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-40/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 39 期）：人生不短</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 39 期）：人生不短&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;[「生信周刊...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-39/</link>
+      <pubDate>Sun, 07 Aug 2022 10:06:20 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-39/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 38 期）：选人不选项目的「基石项目」能否走向成功？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 38 期）：选人不选项目的「基石项目」能否走向成功？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-38/</link>
+      <pubDate>Sun, 31 Jul 2022 07:09:34 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-38/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 37 期）：抛弃“影响”因子，计算颠覆因子！</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 37 期）：抛弃“影响”因子，计算颠覆因子！&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-37/</link>
+      <pubDate>Sun, 24 Jul 2022 03:34:48 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-37/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 36 期）：“费钱、费力、不费脑”是中国该提倡的科研吗？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 36 期）：“费钱、费力、不费脑”是中国该提倡的科研吗？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-36/</link>
+      <pubDate>Sat, 16 Jul 2022 12:25:00 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-36/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 35 期）：生物信息行业的经济生态</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 35 期）：生物信息行业的经济生态&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;公告&lt;/strong&gt;：从本期开始，本周刊将由Openbiox近期建立的运维小队共同贡献与管理。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: [ShixiangWang/weekly](https://github....&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-35/</link>
+      <pubDate>Sun, 10 Jul 2022 03:17:21 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-35/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 34 期）：中国百万人群大队列，何去何从？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 34 期）：中国百万人群大队列，何去何从？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-34/</link>
+      <pubDate>Sat, 25 Jun 2022 14:44:07 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-34/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 33 期）：科研与生活</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 33 期）：科研与生活&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;[「生信周...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-33/</link>
+      <pubDate>Sun, 19 Jun 2022 08:41:42 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-33/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 32 期）：有害的同义突变</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 32 期）：有害的同义突变&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;[「生...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-32/</link>
+      <pubDate>Sat, 11 Jun 2022 10:14:35 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-32/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 31 期）：Openbiox 生物信息学社区 2022 拟开展项目，正式招募 ！</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 31 期）：Openbiox 生物信息学社区 2022 拟开展项目，正式招募 ！&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-31/</link>
+      <pubDate>Sun, 05 Jun 2022 08:24:24 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-31/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 30 期）：生信的核心修炼道路在哪里？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 30 期）：生信的核心修炼道路在哪里？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-30/</link>
+      <pubDate>Sun, 22 May 2022 03:02:54 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-30/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 29 期）：Hiplot开发库开源</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 29 期）：Hiplot开发库开源&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。
+...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-29/</link>
+      <pubDate>Sun, 15 May 2022 02:53:09 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-29/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 28 期）：华大Stereo-seq系列成果揭秘超高分辨率生命全景时空图谱</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 28 期）：华大Stereo-seq系列成果揭秘超高分辨率生命全景时空图谱&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-28/</link>
+      <pubDate>Sun, 08 May 2022 12:21:19 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-28/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 27 期）：真与假的界限在哪里</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 27 期）：真与假的界限在哪里&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;[...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-27/</link>
+      <pubDate>Sun, 24 Apr 2022 11:48:47 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-27/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 26 期）：CRISPR的专利权</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 26 期）：CRISPR的专利权&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-26/</link>
+      <pubDate>Sun, 17 Apr 2022 13:20:06 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-26/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 25 期）：从事生信工作，究竟是远见者，还是工具人？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 25 期）：从事生信工作，究竟是远见者，还是工具人？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-25/</link>
+      <pubDate>Sun, 10 Apr 2022 14:12:25 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-25/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 24 期）：从有隙到无间，首个人类完整基因组发布</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 24 期）：从有隙到无间，首个人类完整基因组发布&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-24/</link>
+      <pubDate>Sun, 03 Apr 2022 09:39:05 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-24/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 23 期）：从美国博德研究所成功之道看生命科学前沿创新</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 23 期）：从美国博德研究所成功之道看生命科学前沿创新&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-23/</link>
+      <pubDate>Sun, 27 Mar 2022 07:48:53 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-23/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 22 期）：为什么生产率在提高而我们却越来越忙</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 22 期）：为什么生产率在提高而我们却越来越忙&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-22/</link>
+      <pubDate>Sun, 20 Mar 2022 03:54:53 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-22/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 21 期）：科研与爱好</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 21 期）：科研与爱好&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;GitHu...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-21/</link>
+      <pubDate>Sun, 13 Mar 2022 03:01:56 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-21/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 20 期）：科研苦行</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 20 期）：科研苦行&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;GitHub...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-20/</link>
+      <pubDate>Sun, 06 Mar 2022 15:43:38 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-20/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 19 期）：2022年值得关注的7大前沿技术</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 19 期）：2022年值得关注的7大前沿技术&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-19/</link>
+      <pubDate>Sun, 27 Feb 2022 03:18:52 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-19/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 18 期）：过去50年最重要的统计学思想是什么？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 18 期）：过去50年最重要的统计学思想是什么？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-18/</link>
+      <pubDate>Sat, 19 Feb 2022 14:35:55 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-18/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 17 期）：Cox比例风险模型著作者离世</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 17 期）：Cox比例风险模型著作者离世&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-17/</link>
+      <pubDate>Sun, 23 Jan 2022 10:03:58 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-17/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 16 期）：癌症新特征</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 16 期）：癌症新特征&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;GitHu...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-16/</link>
+      <pubDate>Sun, 16 Jan 2022 09:31:22 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-16/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 15 期）：科学家的层次</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 15 期）：科学家的层次&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;GitH...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-15/</link>
+      <pubDate>Sat, 08 Jan 2022 16:21:32 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-15/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 14 期）：为什么有些朋友，走着走着就散了</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 14 期）：为什么有些朋友，走着走着就散了&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-14/</link>
+      <pubDate>Sun, 26 Dec 2021 12:52:39 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-14/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 13 期）：他开发了基因界的百科全书，贡献却少有人知</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 13 期）：他开发了基因界的百科全书，贡献却少有人知&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-13/</link>
+      <pubDate>Sun, 19 Dec 2021 09:18:48 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-13/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 12 期）：你的饮食模式需要改变吗？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 12 期）：你的饮食模式需要改变吗？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-12/</link>
+      <pubDate>Sun, 12 Dec 2021 03:13:58 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-12/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 11 期）：中科院近20年院士增选之数据分析</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 11 期）：中科院近20年院士增选之数据分析&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-11/</link>
+      <pubDate>Sun, 05 Dec 2021 03:34:11 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-11/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 10 期）：开放科学</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 10 期）：开放科学&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;GitHub...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-10/</link>
+      <pubDate>Sat, 27 Nov 2021 15:18:00 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-10/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 9 期）：统计建模之道和术</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 9 期）：统计建模之道和术&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;Gi...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-9/</link>
+      <pubDate>Sat, 20 Nov 2021 15:31:54 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-9/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 8 期）：《沙丘》编剧、《权游》作者使用MS-DOS创作</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 8 期）：《沙丘》编剧、《权游》作者使用MS-DOS创作&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-8/</link>
+      <pubDate>Sun, 07 Nov 2021 08:09:36 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-8/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 7 期）：为何年轻便科研至死</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 7 期）：为何年轻便科研至死&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;Gi...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-7/</link>
+      <pubDate>Sat, 30 Oct 2021 16:04:48 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-7/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 6 期）：你会买“炸场”Macbook Pro搞生信吗？</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 6 期）：你会买“炸场”Macbook Pro搞生信吗？&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-6/</link>
+      <pubDate>Sat, 23 Oct 2021 15:06:24 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-6/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 5 期）：相关非因果</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 5 期）：相关非因果&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;GitHub...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-5/</link>
+      <pubDate>Sat, 16 Oct 2021 10:45:11 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-5/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 4 期）：生信有一天可以得诺贝尔奖吗</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 4 期）：生信有一天可以得诺贝尔奖吗&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-4/</link>
+      <pubDate>Sat, 09 Oct 2021 11:05:37 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-4/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 3 期）：百年杨振宁</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 3 期）：百年杨振宁&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;GitHub...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-3/</link>
+      <pubDate>Fri, 24 Sep 2021 15:08:02 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-3/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 2 期）：生信的境界与道路</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 2 期）：生信的境界与道路&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;讨论区...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-2/</link>
+      <pubDate>Fri, 17 Sep 2021 06:44:24 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-2/</guid>
+      
+    </item>
+    
+    <item>
+      <title>生信爱好者周刊（第 1 期）：生信是什么</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;生信爱好者周刊（第 1 期）：生信是什么&lt;/h1&gt;
+&lt;p&gt;这里记录每周值得分享的生信相关内容，周日发布。&lt;/p&gt;
+&lt;p&gt;本杂志开源（GitHub: &lt;a href=&#34;https://github.com/ShixiangWang/weekly&#34;&gt;ShixiangWang/weekly&lt;/a&gt;），欢迎提交 issue，投稿或推荐生信相关内容。&lt;/p&gt;
+&lt;p&gt;讨论区的帖子...&lt;/p&gt;</description>
+      <link>https://shixiangwang.github.io/weekly/issue-1/</link>
+      <pubDate>Fri, 10 Sep 2021 03:02:29 +0000</pubDate>
+      <source url="https://shixiangwang.github.io/weekly/feed_rss_created.xml">生信爱好者周刊</source>
+      
+      <guid isPermaLink="true">https://shixiangwang.github.io/weekly/issue-1/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
